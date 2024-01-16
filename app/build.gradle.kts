@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.woojun.pagin3_study"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.woojun.pagin3_study"
         minSdk = 29
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
